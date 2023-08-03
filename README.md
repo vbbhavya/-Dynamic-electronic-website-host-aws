@@ -1,6 +1,7 @@
 # Dynamic-electronic-website-host-aws my InternCrowd Task
 dynamic Website hosting using rds ec2
 
+//The source file of this electronics website cant be uploaded at it exceeds 25mb but You can get original source code from https://github.com/ShaziaSajid/Electronix-Website.git
 Create A database on RDS mysql and add source code files of website
  
 
@@ -30,6 +31,11 @@ All command history below
 
  
 Copy the source code of sql file for creating table
+
+Now copy public ip address of ec2 and your website is live make sure to check http and https port in security group, thank you.
+
+
+//The source file of this electronics website cant be uploaded at it exceeds 25mb but You can get original source code from https://github.com/ShaziaSajid/Electronix-Website.git
 
  
 Now copy public ip address of ec2 and your website is live make sure to check http and https port in security group, thank you.
